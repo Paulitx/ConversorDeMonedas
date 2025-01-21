@@ -1,5 +1,5 @@
 # Proyecto: Conversor de Monedas
-&#x20; &#x20;
+
 
 ## Índice
 ---
@@ -54,12 +54,13 @@ Actualmente, el proyecto se encuentra concluido, pero podría haber algún tipo 
 
 ### Evidencias de funcionamiento
 ---
-[Opcion 1: De Colones a Dólares]![image](https://github.com/user-attachments/assets/e7e30db6-4382-4072-995b-cd8f95fd0b03)
+**`Opcion 1: De Colones a Dólares`**
 
-[Opcion 5: De Dólares a Colones]![image](https://github.com/user-attachments/assets/05778e17-1458-4da4-823b-0f0ae6c9edd9)
+![image](https://github.com/user-attachments/assets/e7e30db6-4382-4072-995b-cd8f95fd0b03)
+
+[Opcion 5: De Dólares a Colones![image](https://github.com/user-attachments/assets/05778e17-1458-4da4-823b-0f0ae6c9edd9)
 
 
-&#x20;
 
 ---
 
