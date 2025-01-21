@@ -2,7 +2,6 @@
 
 
 ## Índice
----
 1. [Descripción del proyecto](#descripción-del-proyecto)
 2. [Estado del proyecto](#estado-del-proyecto)
 3. [Tecnologías usadas](#tecnologías-usadas)
@@ -12,7 +11,6 @@
 
 
 ## Descripción del proyecto
----
 Este proyecto es una aplicación en Java diseñada para facilitar la conversión entre diferentes monedas utilizando tasas de cambio actualizadas obtenidas desde una API externa.
 El sistema soporta un conjunto de monedas predefinidas, como:
 CRC: Colón costarricense
@@ -23,11 +21,9 @@ AUD: Dólar australiano
 
 
 ## Estado del proyecto
----
 Actualmente, el proyecto se encuentra concluido, pero podría haber algún tipo de modificación en el futuro.
 
 ## Tecnologías usadas
----
 - Java 11+: Lenguaje principal para implementar la lógica del proyecto y construir la aplicación.
 - Librerías estándar de Java:
   - java.net.http: Para realizar peticiones HTTP a la API de ExchangeRate.
@@ -37,7 +33,6 @@ Actualmente, el proyecto se encuentra concluido, pero podría haber algún tipo 
 - Entorno de desarrollo: IntelliJ IDEA: Como IDE principal para desarrollar, depurar y ejecutar el código.
 
 ## Instalación y configuración
----
 ### Prerrequisitos
 
 - JDK 11+ instalado.
@@ -48,17 +43,17 @@ Actualmente, el proyecto se encuentra concluido, pero podría haber algún tipo 
    ```bash
    https://github.com/Paulitx/ConversorDeMonedas.git
    ```
-### Autor del Proyecto
----
+## Autor del Proyecto
 **Paula Vargas**
 
-### Evidencias de funcionamiento
----
+## Evidencias de funcionamiento
 **`Opcion 1: De Colones a Dólares`**
 
 ![image](https://github.com/user-attachments/assets/e7e30db6-4382-4072-995b-cd8f95fd0b03)
 
-[Opcion 5: De Dólares a Colones![image](https://github.com/user-attachments/assets/05778e17-1458-4da4-823b-0f0ae6c9edd9)
+**`Opcion 5: De Dólares a Colones`**
+
+![image](https://github.com/user-attachments/assets/05778e17-1458-4da4-823b-0f0ae6c9edd9)
 
 
 
